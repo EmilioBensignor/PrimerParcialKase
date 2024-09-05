@@ -1,0 +1,8 @@
+Nombre de la carrera: Diseño Multimedial
+Nombre de la materia: Diseño y Programación Web 1
+Cuatrimestre: 3ro
+Sigla de la comisión:
+Turno: Mañana
+Apellido y Nombre Alumno: Bernath Lucas
+Apellido y Nombre Docente: Toyos Omar
+Instancia de Evaluación: Primer Parcial
